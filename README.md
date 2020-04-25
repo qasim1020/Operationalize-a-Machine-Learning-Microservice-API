@@ -1,7 +1,5 @@
 # Operationalize a Machine Learning Microservice API
 
-[![CircleCI](https://circleci.com/gh/maweeks/nano-devops-04.svg?style=svg)](https://circleci.com/gh/maweeks/nano-devops-04)
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
